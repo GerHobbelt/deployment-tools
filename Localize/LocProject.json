@@ -1,0 +1,15 @@
+{
+  "Projects": [
+    {
+      "LanguageSet": "Azure_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\clickonce\MageCLI\xlf\Application.de.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\clickonce\MageCLI\xlf\",
+        }
+      ]
+    }
+  ]
+}
