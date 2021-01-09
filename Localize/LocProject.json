@@ -4,10 +4,11 @@
       "LanguageSet": "Azure_Languages",
       "LocItems": [
         {
-          "SourceFile": "src\\clickonce\\MageCLI\\xlf\\Application.de.xlf",
+          "SourceFile": "src\\clickonce\\MageCLI\\xlf\\Application.xlf",
           "Languages": "",
           "CopyOption": "LangIDOnName",
-          "OutputPath": "src\\clickonce\\MageCLI\\xlf\\"
+          "OutputPath": "src\\clickonce\\MageCLI\\xlf\\",
+          "LclFile": "src\\clickonce\\MageCLI\\lcl\\"
         }
       ]
     }
