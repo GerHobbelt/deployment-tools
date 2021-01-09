@@ -8,7 +8,7 @@
           "Languages": "",
           "CopyOption": "LangIDOnName",
           "OutputPath": "src\\clickonce\\MageCLI\\xlf\\",
-          "LclFile": "src\\clickonce\\MageCLI\\lcl\\"
+          "LclFile": "src\\clickonce\\MageCLI\\lcl\\{Lang}\\Application.xlf.lcl"
         }
       ]
     }
